@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Project_C#\Phone Number\Phone Number\bin\Debug\Phone Number.exe
+C:\Users\Administrator\Desktop\Project_C#\Phone Number\Phone Number\bin\Debug\Phone Number.pdb
+C:\Users\Administrator\Desktop\Project_C#\Phone Number\Phone Number\obj\Debug\Phone Number.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project_C#\Phone Number\Phone Number\obj\Debug\Phone_Number.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project_C#\Phone Number\Phone Number\obj\Debug\Phone Number.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project_C#\Phone Number\Phone Number\obj\Debug\Phone Number.exe
+C:\Users\Administrator\Desktop\Project_C#\Phone Number\Phone Number\obj\Debug\Phone Number.pdb
+C:\Users\Administrator\Desktop\Project_C#\Phone Number\Phone Number\obj\Debug\Phone_Number.AboutBox1.resources
+C:\Users\Administrator\Desktop\Project_C#\Phone Number\Phone Number\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\Project_C#\Phone Number\Phone Number\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Administrator\Desktop\Project_C#\Phone Number\Phone Number\obj\Debug\Phone Number.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Project_C#\Phone Number\Phone Number\obj\Debug\printdata.PrintOptions.resources
+C:\Users\Administrator\Desktop\Project_C#\Phone Number\Phone Number\obj\Debug\Phone_Number.MainForm.resources
